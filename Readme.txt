@@ -1,3 +1,3 @@
 This is a git test
 
-ｇｉｔ很好用
+git is better
