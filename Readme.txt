@@ -6,3 +6,6 @@ git is better
 
 svn is better
 >>>>>>> Stashed changes
+
+
+both of them are great.
